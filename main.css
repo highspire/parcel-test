@@ -1,0 +1,15 @@
+@import './styles/adjustments.scss';
+@import './styles/main.scss';
+@import "./styles/plugins/normalize.css";
+@import "./styles/plugins/hamburgers/hamburgers.scss";
+@import "./styles/plugins/bootstrap-grid.min.css";
+@import "./styles/sections/header.scss";
+@import './styles/sections/guide.scss';
+@import './styles/sections/controller.scss';
+@import './styles/sections/feedback.scss';
+
+
+
+body {
+    background-color: #1E1E1E;
+}
